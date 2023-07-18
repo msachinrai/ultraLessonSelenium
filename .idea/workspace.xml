@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0c9723-231b-4f93-8bdf-96025c930ca3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ultralesson/training/web/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ultralesson/training/web/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ultralesson/training/web/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,48 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/sachinrai/Documents/JavaSection/OOPS/UltraLessonSelenium&quot;
   }
 }</component>
+  <component name="RunManager" selected="TestNG.SearchTests (1)">
+    <configuration name="SearchTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UltraLesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ultralesson.training.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ultralesson.training.web" />
+      <option name="MAIN_CLASS_NAME" value="com.ultralesson.training.web.SearchTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ultralesson.training.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ultralesson.training.web" />
+      <option name="MAIN_CLASS_NAME" value="com.ultralesson.training.web.SearchTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SearchTests (1)" />
+        <item itemvalue="TestNG.SearchTests" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
